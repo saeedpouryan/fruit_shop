@@ -1,11 +1,11 @@
 # Flutter FruitShop
 
-طراحی ui میوه فروشی‌:
+طراحی ظاهر اپ میوه فروشی‌:
 
-معماری : MVP
-مدیریت استیت :‌پروایدر
+معماری : MVP <br> 
+مدیریت استیت : Provider
 
-architecture : MVP
+architecture : MVP<br>
 stateManagment : Provider
 
 
