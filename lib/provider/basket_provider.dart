@@ -16,7 +16,7 @@ class BasketProvider with ChangeNotifier{
       if(item.id == id){
         fruitCount = item.fruitCount;
         isFruit = true;
-        notifyListeners();
+       ///notifyListeners();
       }
     });
 
