@@ -6,7 +6,7 @@
 مدیریت استیت : Provider
 
 architecture : MVP<br>
-stateManagment : Provider
+stateManagement : Provider
 
 
 <img src="/singlePage.png" width='240'/> <img src="/indexPage.png" width='240'/>        
